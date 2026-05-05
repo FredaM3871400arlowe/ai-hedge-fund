@@ -39,15 +39,9 @@ A few tickers I've found useful for comparing agent signals across different inv
 - **BRK-B** — great for seeing Graham vs. Munger agreement
 - **NVDA** — interesting contrast between growth (Cathie Wood) and value agents
 - **KO** — classic Buffett stock; most value agents tend to agree here
+- **MSFT** — useful for Phil Fisher / growth-quality overlap; Munger and Fisher tend to align here
+- **F** — low P/B, cyclical; Graham agent often flags it but Munger stays cautious
 
 ## Disclaimer
 
-This project is for **educational and research purposes only**.
-
-- Not intended for real trading or investment
-- No investment advice or guarantees provided
-- Creator assumes no liability for financial losses
-- Consult a financial advisor for investment decisions
-- Past performance does not indicate future results
-
-By using this software, you agree to use it solely for learning purposes.
+This project is for **educational and research p
