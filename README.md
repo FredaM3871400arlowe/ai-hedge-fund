@@ -32,6 +32,14 @@ Note: the system does not actually make any trades.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
+## Tickers I've Been Testing With
+
+A few tickers I've found useful for comparing agent signals across different investing styles:
+
+- **BRK-B** — great for seeing Graham vs. Munger agreement
+- **NVDA** — interesting contrast between growth (Cathie Wood) and value agents
+- **KO** — classic Buffett stock; most value agents tend to agree here
+
 ## Disclaimer
 
 This project is for **educational and research purposes only**.
@@ -43,12 +51,3 @@ This project is for **educational and research purposes only**.
 - Past performance does not indicate future results
 
 By using this software, you agree to use it solely for learning purposes.
-
-## Table of Contents
-- [How to Install](#how-to-install)
-- [How to Run](#how-to-run)
-  - [⌨️ Command Line Interface](#️-command-line-interface)
-  - [🖥️ Web Application](#️-web-application)
-- [How to Contribute](#how-to-contribute)
-- [Feature Requests](#feature-requests)
-- [License](#license)
