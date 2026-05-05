@@ -68,6 +68,8 @@ The API will be available at:
 - API Documentation: http://localhost:8001/docs
 - Interactive Docs (Redoc): http://localhost:8001/redoc
 
+> **Note (personal):** I run this alongside a local Jupyter notebook server on port 8888 and a separate data pipeline on port 8000, so 8001 works well for me. If you need a different port, just change `--port 8001` in the command above.
+
 ## API Endpoints
 
 - `POST /hedge-fund/run`: Run the AI Hedge Fund with specified parameters
@@ -96,5 +98,4 @@ app/backend/
 
 This project is for **educational and research purposes only**.
 
-- Not intended for real trading or investment
-- No warranties
+- No
