@@ -57,4 +57,5 @@ ignore_missing_imports = true
 asyncio_mode = "auto"
 testpaths = ["tests"]
 # increase verbosity so individual test names are visible during local runs
-addopts = "-v"
+# also show a summary of all failures at the end with -r f
+addopts = "-v -r f"
