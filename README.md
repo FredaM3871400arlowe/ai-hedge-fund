@@ -40,5 +40,8 @@ A few tickers I've found useful for comparing agent signals across different inv
 - **NVDA** — interesting contrast between growth (Cathie Wood) and value agents
 - **KO** — classic Buffett stock; most value agents tend to agree here
 - **MSFT** — useful for Phil Fisher / growth-quality overlap
-- **AAPL** — good stress test; Munger/Buffett agents tend to be bullish while Graham agent is more skeptical on price
-- **META** — interesting post-2022 turnaround case; value agents diverge noticeably here
+- **JNJ** — good for testing Taleb's downside/risk focus alongside fundamentals
+- **AMZN** — interesting split between Damodaran's valuation discipline and Cathie Wood's growth thesis
+- **META** — worth running after major earnings; sentiment agent tends to diverge from value agents here
+
+> **Note to self:** When comparing agents, run with a 1-year lookback window first, then try 3 years to see if signals shift. Graham and Buffett agents in particular seem more stable over longer horizons.
