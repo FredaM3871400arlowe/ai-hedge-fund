@@ -89,13 +89,10 @@ app/backend/
 │   └── health.py             # Health check endpoints
 ├── services/                 # Business logic
 │   ├── graph.py              # Agent graph functionality
-│   └── portfolio.py          # Portfolio management
-├── __init__.py               # Package initialization
-└── main.py                   # FastAPI application entry point
+│   └── portfolio.py   
 ```
 
-## Disclaimer
+## Troubleshooting
 
-This project is for **educational and research purposes only**.
-
-- No
+- **`ModuleNotFoundError`**: Make sure you're running commands from the root directory with `poetry run`, not a plain `python` call. The project uses a monorepo-style layout and imports depend on the Poetry-managed path.
+- **Port already in use**: Change `--port 8001` to any free port (e.g. `--port 8002`). Remember to update any frontend config pointing to the backend URL accordingly.
