@@ -56,3 +56,5 @@ ignore_missing_imports = true
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
+# increase verbosity so individual test names are visible during local runs
+addopts = "-v"
